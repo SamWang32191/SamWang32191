@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**SamWang32191/SamWang32191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Tokscale Stats](https://tokscale.ai/api/embed/SamWang32191/svg?view=3d&theme=light&compact=1)](https://tokscale.ai/u/SamWang32191)
+<!-- **SamWang32191/SamWang32191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
